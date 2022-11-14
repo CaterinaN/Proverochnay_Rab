@@ -17,3 +17,7 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
+# *Решение:*
+1.  Создан репозиторий Proverochnay_Rab.
+2. 
+
